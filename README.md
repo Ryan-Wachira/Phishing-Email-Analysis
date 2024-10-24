@@ -55,7 +55,5 @@ Screenshots documenting the analysis process are located in the `Screenshots/` f
 ## Conclusion
 This project demonstrates the importance of thorough email analysis in detecting and mitigating phishing attempts. By carefully examining email headers, domains, and content, security professionals can protect users from falling victim to scams.
 
-## Author
-- Ryan Wachira
 
 
